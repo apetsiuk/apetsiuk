@@ -15,14 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apetsiuk&theme=2077)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apetsiuk&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apetsiuk&theme=github)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apetsiuk&theme=github)
 
 <p>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apetsiuk&theme=github" alt="Profile summary" align="center"/>
 </p>
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apetsiuk&show_icons=true&theme=default&count_private=true" alt="apetsiuk's github stats" align="center"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apetsiuk&show_icons=true&rank_icon=percentile&theme=default&count_private=true" alt="apetsiuk's github stats" align="center"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apetsiuk&layout=compact" alt="Top Langs" align="center"/>
 </p>
