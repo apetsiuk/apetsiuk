@@ -1,10 +1,11 @@
 <p align="left">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" />
   <img src="https://img.shields.io/badge/apetsiuk-%231DA1F2.svg?logo=Twitter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" />
+  
   <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" />
   <img src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white" />
   <img src="[https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white](https://img.shields.io/badge/apetsiuk-%23FF0000.svg?logo=YouTube&logoColor=white)" />
+  <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" />
 </p>
 
 <p align="left">
@@ -34,12 +35,12 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <img height="200em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apetsiuk&theme=github" alt="Profile summary" align="center"/>
+  <img height="250em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apetsiuk&theme=github" alt="Profile summary" align="center"/>
 </p>
 
 <p>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=apetsiuk&show_icons=true&rank_icon=percentile&theme=default&count_private=true" />
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apetsiuk&layout=compact" />
-  <img height="120em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apetsiuk&theme=github" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=apetsiuk&show_icons=true&rank_icon=percentile&theme=default&count_private=true" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apetsiuk&layout=compact" />
+  <img height="140em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apetsiuk&theme=github" />
 </p>
 
