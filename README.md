@@ -1,7 +1,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" />
   <img src="https://img.shields.io/badge/apetsiuk-%231DA1F2.svg?logo=Twitter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black" />
   <img src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white" />
   <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" />
   <img src="https://img.shields.io/badge/apetsiuk-%23FF0000.svg?logo=YouTube&logoColor=white" />
@@ -32,6 +31,8 @@ https://github.com/VishwaGauravIn/pretty-readme-badges
 <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white" />
 <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" />
 <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
+
+<img src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black" />
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
