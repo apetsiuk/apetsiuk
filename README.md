@@ -21,9 +21,10 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apetsiuk&theme=github)
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apetsiuk&show_icons=true&rank_icon=percentile&theme=default&count_private=true" alt="apetsiuk's github stats" align="center"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apetsiuk&layout=compact" alt="Top Langs" align="center"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apetsiuk&theme=github&layout=compact" alt="Repo Langs" align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=apetsiuk&show_icons=true&rank_icon=percentile&theme=default&count_private=true" width="32.5%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apetsiuk&layout=compact" width="32.5%">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apetsiuk&theme=github&layout=compact" width="32.5%" align="center"/>
 </p>
 
-
+[![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/8496462?color=orange&label=StackOverflow&logo=stackoverflow&style=flat-square)](https://stackoverflow.com/users/8496462)
+[![GitHub User's stars](https://img.shields.io/github/stars/apetsiuk?color=green&label=GitHub%20Stars&logo=github&style=flat-square)](https://github.com/apetsiuk?tab=repositories&q=&type=public&language=&sort=stargazers)
