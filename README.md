@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 </p>
 
 <div align="center" >   
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=apetsiuk&theme=nord_bright" width="32.5%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apetsiuk&theme=nord_bright" width="32.5%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apetsiuk&theme=nord_bright" width="32.5%">
+<img src="https://github-readme-stats.vercel.app/api?username=apetsiuk&show_icons=true&rank_icon=percentile&theme=default&count_private=true" width="30%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apetsiuk&theme=nord_bright" width="30%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apetsiuk&theme=nord_bright" width="30%">
 </div>
