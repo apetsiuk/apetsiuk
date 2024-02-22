@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apetsiuk&theme=2077)
+
 <p>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apetsiuk&theme=github" alt="Profile summary" align="center"/>
 </p>
