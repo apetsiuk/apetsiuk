@@ -1,4 +1,4 @@
-### Hi there 👋
+[### Hi there 👋](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <!--
 **apetsiuk/apetsiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 <p>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=apetsiuk&show_icons=true&rank_icon=percentile&theme=default&count_private=true" alt="apetsiuk's github stats" align="center"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apetsiuk&layout=compact" alt="Top Langs" align="center"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apetsiuk&theme=github" alt="Repo Langs" align="center"/>
 </p>
 
-![Metrics](https://metrics.lecoq.io/username)
+
