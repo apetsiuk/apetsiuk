@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apetsiuk&theme=2077)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apetsiuk&theme=2077)
 
 <p>
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apetsiuk&theme=github" alt="Profile summary" align="center"/>
