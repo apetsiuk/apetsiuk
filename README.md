@@ -23,13 +23,8 @@ Here are some ideas to get you started:
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apetsiuk&theme=github)
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=apetsiuk&show_icons=true&rank_icon=percentile&theme=default&count_private=true" width="30%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=apetsiuk&layout=compact" width="30%"/>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apetsiuk&theme=github" width="30%"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=apetsiuk&show_icons=true&rank_icon=percentile&theme=default&count_private=true" />
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apetsiuk&layout=compact" />
+  <img height="120em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apetsiuk&theme=github" />
 </p>
 
-<div align="center" >   
-<img src="https://github-readme-stats.vercel.app/api?username=apetsiuk&show_icons=true&rank_icon=percentile&theme=default&count_private=true" width="30%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apetsiuk&theme=nord_bright" width="30%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apetsiuk&theme=nord_bright" width="30%">
-</div>
