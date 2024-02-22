@@ -22,11 +22,4 @@ Here are some ideas to get you started:
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apetsiuk&layout=compact" alt="Top Langs" align="center"/>
 </p>
 
-name: LeetCode
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.plugin.leetcode.svg
-  token: NOT_NEEDED
-  base: ""
-  plugin_leetcode: yes
-  plugin_leetcode_sections: solved, skills, recent
+![Metrics](https://metrics.lecoq.io/username)
