@@ -1,10 +1,9 @@
 <p align="left">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" />
   <img src="https://img.shields.io/badge/apetsiuk-%231DA1F2.svg?logo=Twitter&logoColor=white" />
-  
-  <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" />
   <img src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white" />
-  <img src="[https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white](https://img.shields.io/badge/apetsiuk-%23FF0000.svg?logo=YouTube&logoColor=white)" />
+  <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" />
+  <img src="https://img.shields.io/badge/aliakseipetsiuk5246-%23FF0000.svg?logo=YouTube&logoColor=white" />
   <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" />
 </p>
 
@@ -12,9 +11,11 @@
   <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white" />
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white" />
   <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?logo=Flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E" />
   <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black" />
 </p>
 
@@ -35,7 +36,7 @@ Here are some ideas to get you started:
 -->
 
 <p>
-  <img height="250em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apetsiuk&theme=github" alt="Profile summary" align="center"/>
+  <img height="230em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apetsiuk&theme=github" alt="Profile summary" align="center"/>
 </p>
 
 <p>
