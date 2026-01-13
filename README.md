@@ -1,14 +1,13 @@
 <p align="left">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" />
-  <img src="https://img.shields.io/badge/apetsiuk-%231DA1F2.svg?logo=Twitter&logoColor=white" />
   <img src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white" />
   <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" />
   <img src="https://img.shields.io/badge/apetsiuk-%23FF0000.svg?logo=YouTube&logoColor=white" />
   [<img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" />](https://medium.com/@apetsiuk)
 </p>
 
-[asdasd](https://medium.com/@apetsiuk)
 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@apetsiuk)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@apetsiuk)
 
 <!--
