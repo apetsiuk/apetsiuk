@@ -9,6 +9,8 @@
 
 [asdasd](https://medium.com/@apetsiuk)
 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@apetsiuk)
+
 <!--
 **apetsiuk/apetsiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
