@@ -56,3 +56,10 @@ https://github.com/VishwaGauravIn/pretty-readme-badges
   <img height="140em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apetsiuk&theme=github" />
 </p>
 
+![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apetsiuk&theme=nord_bright)
+
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apetsiuk&theme=nord_bright)
+
+![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=apetsiuk&theme=nord_bright)
+
+![Commits per day](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=apetsiuk&theme=nord_bright&utcOffset=8)
