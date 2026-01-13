@@ -1,4 +1,3 @@
-test
 <p align="left">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white" />
   <img src="https://img.shields.io/badge/apetsiuk-%231DA1F2.svg?logo=Twitter&logoColor=white" />
