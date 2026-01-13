@@ -48,12 +48,10 @@ https://github.com/VishwaGauravIn/pretty-readme-badges
   <img height="230em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apetsiuk&theme=default" alt="Profile summary" align="center"/>
 </p>
 
-![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=apetsiuk&theme=github)
-
 <p>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=apetsiuk&show_icons=true&rank_icon=percentile&theme=github&count_private=true" />
+  <img height="140em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=apetsiuk&theme=default" />
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apetsiuk&layout=compact" />
-  <img height="140em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apetsiuk&theme=github" />
+  <img height="140em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apetsiuk&theme=default" />
 </p>
 
 ![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apetsiuk&theme=nord_bright)
