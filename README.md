@@ -50,7 +50,9 @@ https://github.com/VishwaGauravIn/pretty-readme-badges
 
 <img height="230em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apetsiuk&theme=github" alt="Profile summary" align="center"/>
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apetsiuk&theme=github" alt="Profile details badge"/>
 
+![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apetsiuk&theme=github)
 
 <p>
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=apetsiuk&show_icons=true&rank_icon=percentile&theme=default&count_private=true" />
