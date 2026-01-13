@@ -37,10 +37,8 @@ https://github.com/VishwaGauravIn/pretty-readme-badges
 
 <p>
   <img height="230em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apetsiuk&theme=default" alt="Profile summary" align="center"/>
-</p>
-
-<p>
+<br />
   <img height="140em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=apetsiuk&theme=default" />
   <img height="140em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apetsiuk&theme=default" />
-  <img height="140em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=apetsiuk&theme=default&utcOffset=8" />
+
 </p>
