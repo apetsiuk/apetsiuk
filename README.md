@@ -4,18 +4,7 @@
   <img src="https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white" />
   <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white" />
   <img src="https://img.shields.io/badge/apetsiuk-%23FF0000.svg?logo=YouTube&logoColor=white" />
-  <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" />
-</p>
-
-<p align="left">
-  <img src="https://img.shields.io/badge/opencv-%23white.svg?logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/ros-%230A0FF9.svg?logo=ros&logoColor=white" />
-  <img src="https://img.shields.io/badge/blender-%23F5792A.svg?logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/-RaspberryPi-C51A4A?logo=Raspberry-Pi" />
-  <img src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
-  
+  [<img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" />](https://medium.com/@apetsiuk)
 </p>
 
 
@@ -36,9 +25,9 @@ https://github.com/VishwaGauravIn/pretty-readme-badges
 -->
 
 <p>
-  <img height="230em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apetsiuk&theme=default" alt="Profile summary" align="center"/>
+  <img height="210em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apetsiuk&theme=default" alt="Profile summary" align="center"/>
 <br />
-  <img height="140em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=apetsiuk&theme=default" />
-  <img height="140em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apetsiuk&theme=default" />
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=apetsiuk&theme=default" />
+  <img height="150em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apetsiuk&theme=default" />
 
 </p>
