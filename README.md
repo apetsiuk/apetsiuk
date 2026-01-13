@@ -22,8 +22,7 @@
 <!--
 **apetsiuk/apetsiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
+https://github-enchanter-list.vercel.app/list/summarycards
 https://github.com/VishwaGauravIn/pretty-readme-badges
 
 <img src="https://img.shields.io/badge/python-3670A0?logo=python&logoColor=ffdd54" />
@@ -34,14 +33,6 @@ https://github.com/VishwaGauravIn/pretty-readme-badges
 
 <img src="https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
 
 <p>
@@ -50,14 +41,6 @@ https://github.com/VishwaGauravIn/pretty-readme-badges
 
 <p>
   <img height="140em" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=apetsiuk&theme=default" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apetsiuk&layout=compact" />
   <img height="140em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apetsiuk&theme=default" />
+  <img height="140em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=apetsiuk&theme=default&utcOffset=8" />
 </p>
-
-![Top languages by repo](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=apetsiuk&theme=nord_bright)
-
-![Profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=apetsiuk&theme=nord_bright)
-
-![General stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=apetsiuk&theme=nord_bright)
-
-![Commits per day](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=apetsiuk&theme=nord_bright&utcOffset=8)
