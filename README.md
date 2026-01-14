@@ -1,6 +1,6 @@
-<img align="right" src="images/bg_img_01.png" height=200 alt="procedural bunny image">
+<img align="right" src="images/bg_img_01.png" height=100 alt="procedural bunny image">
 
-
+<br />
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apetsiuk/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@apetsiuk)
