@@ -1,5 +1,8 @@
 <img align="left" src="images/bunnies2.png" height="100" alt="procedural bunny image">
 
+![bunnies2.png](images/bunnies2.png)
+
+
 
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apetsiuk/)
