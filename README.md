@@ -9,7 +9,7 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@apetsiuk)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?logo=ResearchGate&logoColor=white)](https://www.researchgate.net/profile/Aliaksei-Petsiuk?ev=prf_overview)
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/apetsiuk/)
-[![YouTube](https://img.shields.io/badge/<Aliaksei Petsiuk>-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@aliakseipetsiuk5246)
+[![YouTube](https://img.shields.io/badge/Aliaksei%20Petsiuk-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@aliakseipetsiuk5246)
 
 
 <!--
