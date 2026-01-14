@@ -1,6 +1,6 @@
 <img align="right" src="images/bunnies.png" height=100 alt="procedural bunny image">
 
-<br />
+<p>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apetsiuk/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@apetsiuk)
@@ -8,7 +8,7 @@
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/apetsiuk/)
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@aliakseipetsiuk5246)
 
-
+</p>
 <!--
 **apetsiuk/apetsiuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
