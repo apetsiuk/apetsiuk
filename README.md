@@ -1,4 +1,4 @@
-<img align="right" src="images/bg_img_01.png" alt="Description of image">
+<img align="right" src="images/bg_img_01.png" height=200 alt="procedural bunny image">
 
 
 
